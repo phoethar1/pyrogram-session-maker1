@@ -1,3 +1,4 @@
+#!bin/bash
 pip install lolcat
 figlet hello! | lolcat
 clear
